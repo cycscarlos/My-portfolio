@@ -1,5 +1,5 @@
 import React from "react";
-import CV from "../../assets/pdf/Carlos_Colmenares_A-Presentacion.pdf";
+import CV from "../../assets/pdf/Carlos_Colmenares_A.pdf";
 const Botones = () => {
   return (
     <div className="cta">
