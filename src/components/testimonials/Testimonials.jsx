@@ -32,6 +32,7 @@ const Testimonials = () => {
             <img src={AVTR1} alt="Avatar One" />
           </div>
           <h5>Ernestina Achiever</h5>
+          <h6>My Academy General Director</h6>
           <small className="client__review">
             The service provided is really fast and effective, the advice
             provided give solution to all our questions in the shortest possible
@@ -45,6 +46,7 @@ const Testimonials = () => {
             <img src={AVTR2} alt="Avatar One" />
           </div>
           <h5>Joseph Key</h5>
+          <h6>Headphone Store Co-founder & Dispatch Manager</h6>
           <small className="client__review">
             Thank you, you are very professional! I am very happy with the work
             you did in the creation of my website, it looked very good. You were
@@ -59,6 +61,7 @@ const Testimonials = () => {
             <img src={AVTR3} alt="Avatar One" />
           </div>
           <h5>Arthur Taylor</h5>
+          <h6>Massmood Agency Team Leader</h6>
           <small className="client__review">
             My experience with your services was very good, I must highlight the
             speed, initiative, commitment and punctuality in every delivery.
@@ -72,9 +75,10 @@ const Testimonials = () => {
             <img src={AVTR4} alt="Avatar One" />
           </div>
           <h5>Juliette Aznard</h5>
+          <h6>Trattoria Restaurant Operational Manager</h6>
           <small className="client__review">
             Thanks to you, my company's website looks great, I receive calls
-            from all over the country, requesting our services. This new image
+            from all over the city, requesting our services. This new image
             has helped me a lot, I can also upload images in real time. That's
             why I highly recommend you for your quality and your advice.
           </small>

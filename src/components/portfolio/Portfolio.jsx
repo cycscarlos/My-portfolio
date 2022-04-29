@@ -1,11 +1,14 @@
 import React from "react";
 import "./portfolio.css";
-import IMG1 from "../../assets/img/portfolio1.jpg";
-import IMG2 from "../../assets/img/portfolio2.jpg";
-import IMG3 from "../../assets/img/portfolio3.jpg";
-import IMG4 from "../../assets/img/portfolio4.jpg";
+import IMG1 from "../../assets/img/portfolio1.png";
+import IMG2 from "../../assets/img/portfolio2.png";
+import IMG3 from "../../assets/img/portfolio3.png";
+import IMG4 from "../../assets/img/portfolio4.png";
 import IMG5 from "../../assets/img/portfolio5.png";
-import IMG6 from "../../assets/img/portfolio6.jpg";
+import IMG6 from "../../assets/img/portfolio6.png";
+import IMG7 from "../../assets/img/portfolio7.png";
+import IMG8 from "../../assets/img/portfolio8.png";
+import IMG9 from "../../assets/img/portfolio9.png";
 
 // Do not use the images in production
 
@@ -119,10 +122,10 @@ const portfolio = () => {
           <div className="portfolio__item__image">
             <img src={IMG2} alt="" />
           </div>
-          <h3>Web development academy website</h3>
+          <h3>Store selling audio accessories website</h3>
           <div className="portfolio__item-cta">
             <a
-              href="https://github.com/cycscarlos/My_Academy"
+              href="https://github.com/cycscarlos/Headphones_store"
               className="btn"
               target="_blank"
               rel="noreferrer noopener"
@@ -130,7 +133,7 @@ const portfolio = () => {
               Github
             </a>
             <a
-              href="https://cycscarlos.github.io/My_Academy/"
+              href="https://cycscarlos.github.io/Headphones_store/"
               className="btn btn-primary"
               target="_blank"
               rel="noreferrer noopener"
@@ -144,7 +147,7 @@ const portfolio = () => {
           <div className="portfolio__item__image">
             <img src={IMG3} alt="" />
           </div>
-          <h3>beach tour agency website</h3>
+          <h3>Beach tour agency website</h3>
           <div className="portfolio__item-cta">
             <a
               href="https://github.com/cycscarlos/Turismo_Beach"
@@ -169,7 +172,7 @@ const portfolio = () => {
           <div className="portfolio__item__image">
             <img src={IMG4} alt="" />
           </div>
-          <h3>take-out food restaurant website</h3>
+          <h3>Take-out food restaurant website</h3>
           <div className="portfolio__item-cta">
             <a
               href="https://github.com/cycscarlos/Restaurant_Deliciously"
@@ -194,7 +197,7 @@ const portfolio = () => {
           <div className="portfolio__item__image">
             <img src={IMG5} alt="" />
           </div>
-          <h3>Web development and social media marketing agency website</h3>
+          <h3>Social media marketing agency website</h3>
           <div className="portfolio__item-cta">
             <a
               href="https://github.com/cycscarlos/Massmood_Agency"
@@ -219,10 +222,10 @@ const portfolio = () => {
           <div className="portfolio__item__image">
             <img src={IMG6} alt="" />
           </div>
-          <h3>Store selling audio accessories website</h3>
+          <h3>Publicity Agency website</h3>
           <div className="portfolio__item-cta">
             <a
-              href="https://github.com/cycscarlos/Headphones_store"
+              href="https://github.com/cycscarlos/Web_template5"
               className="btn"
               target="_blank"
               rel="noreferrer noopener"
@@ -230,7 +233,7 @@ const portfolio = () => {
               Github
             </a>
             <a
-              href="https://cycscarlos.github.io/Headphones_store/"
+              href="https://cycscarlos.github.io/Web_template5/"
               className="btn btn-primary"
               target="_blank"
               rel="noreferrer noopener"
@@ -242,7 +245,7 @@ const portfolio = () => {
 
         <article className="portfolio__item">
           <div className="portfolio__item__image">
-            <img src={IMG6} alt="" />
+            <img src={IMG7} alt="" />
           </div>
           <h3>Italian cuisine restaurant website</h3>
           <div className="portfolio__item-cta">
@@ -267,9 +270,9 @@ const portfolio = () => {
 
         <article className="portfolio__item">
           <div className="portfolio__item__image">
-            <img src={IMG6} alt="" />
+            <img src={IMG8} alt="" />
           </div>
-          <h3>invitation card for a wedding website</h3>
+          <h3>Invitation card for a wedding website</h3>
           <div className="portfolio__item-cta">
             <a
               href="https://github.com/cycscarlos/Invitacion_Boda"
@@ -292,7 +295,7 @@ const portfolio = () => {
 
         <article className="portfolio__item">
           <div className="portfolio__item__image">
-            <img src={IMG6} alt="" />
+            <img src={IMG9} alt="" />
           </div>
           <h3>Personal CV website</h3>
           <div className="portfolio__item-cta">

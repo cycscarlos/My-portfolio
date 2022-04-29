@@ -36,14 +36,6 @@ const Services = () => {
                 laptop.
               </p>
             </li>
-            <li>
-              <BiCheck class="service__list-icon" />
-              <p>
-                Our works in a team's product; all groups working in conjunction
-                with product design teams and other back-end development teams,
-                to generate the best spossible solution. .
-              </p>
-            </li>
           </ul>
         </article>
 
@@ -63,27 +55,35 @@ const Services = () => {
               <BiCheck class="service__list-icon" />
               <p>
                 Our solid knowledge of many different technical tools and
-                development concepts, to allow us to generate solutions with high quality
-                standards
+                development concepts, to allow us to generate solutions with
+                high quality standards
               </p>
             </li>
             <li>
               <BiCheck class="service__list-icon" />
               <p>
-                We have a solid Web development capabilities in all of the four web areas, namely:
+                We have a solid Web development capabilities in all of the web
+                areas, namely:
               </p>
             </li>
             <li>
               <BiCheck class="service__list-icon" />
-              <p>Front-end development</p>
+              <p>
+                Front-end development <small>(websites only)</small>
+              </p>
             </li>
             <li>
               <BiCheck class="service__list-icon" />
-              <p>Back-end development</p>
+              <p>
+                Back-end development <small>(servers applications)</small>
+              </p>
             </li>
             <li>
               <BiCheck class="service__list-icon" />
-              <p>Database configuration</p>
+              <p>
+                Database configuration{" "}
+                <small>(frontend & backend interface)</small>
+              </p>
             </li>
             <li>
               <BiCheck class="service__list-icon" />
@@ -99,21 +99,28 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck class="service__list-icon" />
+              <p>
+                Writing of original and unique content, whose product will be
+                input for publishing editorials and advertising campaigns for
+                the target audience
+              </p>
+            </li>
+            <li>
+              <BiCheck class="service__list-icon" />
               <p>Creation and planning of content strategies</p>
             </li>
             <li>
               <BiCheck class="service__list-icon" />
               <p>
-                Writing of original and unique content, whose product is input
-                for publishing editorials and advertising campaigns for the
-                target audience
+                Creation of omni-channel marketing strategies, oriented to
+                multiple advertising platforms
               </p>
             </li>
             <li>
               <BiCheck class="service__list-icon" />
               <p>
                 Optimization of editable content, according to the needs of the
-                company, the target audience, based on market trends
+                clients, the target audience, and based on market trends
               </p>
             </li>
             <li>
@@ -121,13 +128,6 @@ const Services = () => {
               <p>
                 Measurement and analysis of marketing strategies and constant
                 revision if necessary{" "}
-              </p>
-            </li>
-            <li>
-              <BiCheck class="service__list-icon" />
-              <p>
-                Creation of omni-channel marketing strategies, oriented to
-                multiple advertising platforms
               </p>
             </li>
           </ul>

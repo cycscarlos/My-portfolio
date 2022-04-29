@@ -23,7 +23,7 @@ const About = () => {
             <article className="about__card">
               <FaAward className="about__icon" />
               <h5>Experiencie</h5>
-              <small>3+ Years Working</small>
+              <small>2+ Years Working</small>
             </article>
 
             <article className="about__card">
@@ -42,26 +42,30 @@ const About = () => {
           <p>
             <small>
               Electronics engineer, 1981. More than 25 years as a software
-              engineer in IBM's Mainframe technologies; currently,
-              <small>
-                <i> and for the last 3 years</i>
-              </small>
-              , I have been working as a fullstack web developer. In parallel to
-              the functions described above, I have also developed a successful
+              engineer in IBM's Mainframe technologies; In parallel to the
+              function described above, I have also developed a successful
               career as a project engineer
               <small>
-                <i>(for more than 20 years)</i>
+                <i> (for more than 20 years)</i>
               </small>
               , in the implementation of microwave telecommunications networks
-              and electronic security systems. Since early 2020,
               <small>
-                <i> and due to covid-19 pandemic</i>
+                <i> (my academic major) </i>
+              </small>
+               and electronic security systems. Currently
+              <small>
+                <i> (and for the last 2 years)</i>
+              </small>
+              , I have been working as a fullstack web developer. Since early
+              2020
+              <small>
+                <i> (and due to covid-19 pandemic)</i>
               </small>
               , I have been in deep training in many of the technologies that
               make up the web development ecosystem, becoming a solid web
-              developer. My progress can be seen at
-              <a href="https://github.com/cycscarlos">
-                <small> https://github.com/cycscarlos</small>
+              developer. My entire CV can be seen at
+              <a href="https://carlos-colmenares-a.netlify.app">
+                <small> https://carlos-colmenares-a.netlify.app</small>
               </a>
               .
             </small>
