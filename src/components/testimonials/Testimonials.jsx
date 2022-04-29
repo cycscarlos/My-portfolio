@@ -33,10 +33,11 @@ const Testimonials = () => {
           </div>
           <h5>Ernestina Achiever</h5>
           <small className="client__review">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas
-            quia, facilis cumque dolore odio ratione commodi ipsum. Dolorum
-            repellendus ad et quae possimus culpa tempore porro quisquam,
-            facere, quos corrupti.
+            The service provided is really fast and effective, the advice
+            provided give solution to all our questions in the shortest possible
+            time, our portal was created with the purpose of providing an online
+            educational service, both informative and interactive in favor of
+            our valued community.
           </small>
         </SwiperSlide>
         <SwiperSlide className="testimonial">
@@ -45,10 +46,12 @@ const Testimonials = () => {
           </div>
           <h5>Joseph Key</h5>
           <small className="client__review">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas
-            quia, facilis cumque dolore odio ratione commodi ipsum. Dolorum
-            repellendus ad et quae possimus culpa tempore porro quisquam,
-            facere, quos corrupti.
+            Thank you, you are very professional! I am very happy with the work
+            you did in the creation of my website, it looked very good. You were
+            able to capture my ideas by making improvements to them, thank you
+            for your advice and after-sales service that makes the difference.
+            Best regards and success. d together, giving us all the advice for
+            our website that we required.
           </small>
         </SwiperSlide>
         <SwiperSlide className="testimonial">
@@ -57,10 +60,11 @@ const Testimonials = () => {
           </div>
           <h5>Arthur Taylor</h5>
           <small className="client__review">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas
-            quia, facilis cumque dolore odio ratione commodi ipsum. Dolorum
-            repellendus ad et quae possimus culpa tempore porro quisquam,
-            facere, quos corrupti.
+            My experience with your services was very good, I must highlight the
+            speed, initiative, commitment and punctuality in every delivery.
+            Your after-sales support maintains that quality and promptness in
+            the answers. We are currently using systems designed together and it
+            is working very well. I highly recommend them.
           </small>
         </SwiperSlide>
         <SwiperSlide className="testimonial">
@@ -69,10 +73,10 @@ const Testimonials = () => {
           </div>
           <h5>Juliette Aznard</h5>
           <small className="client__review">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas
-            quia, facilis cumque dolore odio ratione commodi ipsum. Dolorum
-            repellendus ad et quae possimus culpa tempore porro quisquam,
-            facere, quos corrupti.
+            Thanks to you, my company's website looks great, I receive calls
+            from all over the country, requesting our services. This new image
+            has helped me a lot, I can also upload images in real time. That's
+            why I highly recommend you for your quality and your advice.
           </small>
         </SwiperSlide>
       </Swiper>

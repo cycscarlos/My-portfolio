@@ -29,21 +29,42 @@ const About = () => {
             <article className="about__card">
               <HiOutlineUsers className="about__icon" />
               <h5>Clents</h5>
-              <small>200+ Worldwide</small>
+              <small>10+ Venezuela</small>
             </article>
 
             <article className="about__card">
               <VscFolderLibrary className="about__icon" />
               <h5>Projects</h5>
-              <small>80+ Completed</small>
+              <small>40+ Completed</small>
             </article>
           </div>
 
           <p>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Provident
-            consectetur fugit quibusdam velit iste dolor ducimus id corrupti.
-            Aspernatur accusamus possimus hic nesciunt aliquid quia quaerat
-            commodi porro eligendi esse.
+            <small>
+              Electronics engineer, 1981. More than 25 years as a software
+              engineer in IBM's Mainframe technologies; currently,
+              <small>
+                <i> and for the last 3 years</i>
+              </small>
+              , I have been working as a fullstack web developer. In parallel to
+              the functions described above, I have also developed a successful
+              career as a project engineer
+              <small>
+                <i>(for more than 20 years)</i>
+              </small>
+              , in the implementation of microwave telecommunications networks
+              and electronic security systems. Since early 2020,
+              <small>
+                <i> and due to covid-19 pandemic</i>
+              </small>
+              , I have been in deep training in many of the technologies that
+              make up the web development ecosystem, becoming a solid web
+              developer. My progress can be seen at
+              <a href="https://github.com/cycscarlos">
+                <small> https://github.com/cycscarlos</small>
+              </a>
+              .
+            </small>
           </p>
 
           <a href="#contact" className="btn btn-primary">

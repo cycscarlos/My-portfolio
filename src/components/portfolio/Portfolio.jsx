@@ -94,10 +94,10 @@ const portfolio = () => {
           <div className="portfolio__item__image">
             <img src={IMG1} alt="" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>Engineering and installation company website</h3>
           <div className="portfolio__item-cta">
             <a
-              href="https://github.com/cycscarlos"
+              href="https://github.com/cycscarlos/CYCS"
               className="btn"
               target="_blank"
               rel="noreferrer noopener"
@@ -105,7 +105,7 @@ const portfolio = () => {
               Github
             </a>
             <a
-              href="https://dribbble.com/Alien_Pixels"
+              href="https://cycscarlos.github.io/CYCS"
               className="btn btn-primary"
               target="_blank"
               rel="noreferrer noopener"
@@ -119,10 +119,10 @@ const portfolio = () => {
           <div className="portfolio__item__image">
             <img src={IMG2} alt="" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>Web development academy website</h3>
           <div className="portfolio__item-cta">
             <a
-              href="https://github.com/cycscarlos"
+              href="https://github.com/cycscarlos/My_Academy"
               className="btn"
               target="_blank"
               rel="noreferrer noopener"
@@ -130,7 +130,7 @@ const portfolio = () => {
               Github
             </a>
             <a
-              href="https://dribbble.com/Alien_Pixels"
+              href="https://cycscarlos.github.io/My_Academy/"
               className="btn btn-primary"
               target="_blank"
               rel="noreferrer noopener"
@@ -144,10 +144,10 @@ const portfolio = () => {
           <div className="portfolio__item__image">
             <img src={IMG3} alt="" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>beach tour agency website</h3>
           <div className="portfolio__item-cta">
             <a
-              href="https://github.com/cycscarlos"
+              href="https://github.com/cycscarlos/Turismo_Beach"
               className="btn"
               target="_blank"
               rel="noreferrer noopener"
@@ -155,7 +155,7 @@ const portfolio = () => {
               Github
             </a>
             <a
-              href="https://dribbble.com/Alien_Pixels"
+              href="https://cycscarlos.github.io/Turismo_Beach"
               className="btn btn-primary"
               target="_blank"
               rel="noreferrer noopener"
@@ -169,10 +169,10 @@ const portfolio = () => {
           <div className="portfolio__item__image">
             <img src={IMG4} alt="" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>take-out food restaurant website</h3>
           <div className="portfolio__item-cta">
             <a
-              href="https://github.com/cycscarlos"
+              href="https://github.com/cycscarlos/Restaurant_Deliciously"
               className="btn"
               target="_blank"
               rel="noreferrer noopener"
@@ -180,7 +180,7 @@ const portfolio = () => {
               Github
             </a>
             <a
-              href="https://dribbble.com/Alien_Pixels"
+              href="https://cycscarlos.github.io/Restaurant_Deliciously"
               className="btn btn-primary"
               target="_blank"
               rel="noreferrer noopener"
@@ -194,10 +194,10 @@ const portfolio = () => {
           <div className="portfolio__item__image">
             <img src={IMG5} alt="" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>Web development and social media marketing agency website</h3>
           <div className="portfolio__item-cta">
             <a
-              href="https://github.com/cycscarlos"
+              href="https://github.com/cycscarlos/Massmood_Agency"
               className="btn"
               target="_blank"
               rel="noreferrer noopener"
@@ -205,7 +205,7 @@ const portfolio = () => {
               Github
             </a>
             <a
-              href="https://dribbble.com/Alien_Pixels"
+              href="https://cycscarlos.github.io/Massmood_Agency"
               className="btn btn-primary"
               target="_blank"
               rel="noreferrer noopener"
@@ -219,10 +219,10 @@ const portfolio = () => {
           <div className="portfolio__item__image">
             <img src={IMG6} alt="" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>Store selling audio accessories website</h3>
           <div className="portfolio__item-cta">
             <a
-              href="https://github.com/cycscarlos"
+              href="https://github.com/cycscarlos/Headphones_store"
               className="btn"
               target="_blank"
               rel="noreferrer noopener"
@@ -230,7 +230,82 @@ const portfolio = () => {
               Github
             </a>
             <a
-              href="https://dribbble.com/Alien_Pixels"
+              href="https://cycscarlos.github.io/Headphones_store/"
+              className="btn btn-primary"
+              target="_blank"
+              rel="noreferrer noopener"
+            >
+              Live Demo
+            </a>
+          </div>
+        </article>
+
+        <article className="portfolio__item">
+          <div className="portfolio__item__image">
+            <img src={IMG6} alt="" />
+          </div>
+          <h3>Italian cuisine restaurant website</h3>
+          <div className="portfolio__item-cta">
+            <a
+              href="https://github.com/cycscarlos/Trattoria_ristorante"
+              className="btn"
+              target="_blank"
+              rel="noreferrer noopener"
+            >
+              Github
+            </a>
+            <a
+              href="https://cycscarlos.github.io/Trattoria_ristorante"
+              className="btn btn-primary"
+              target="_blank"
+              rel="noreferrer noopener"
+            >
+              Live Demo
+            </a>
+          </div>
+        </article>
+
+        <article className="portfolio__item">
+          <div className="portfolio__item__image">
+            <img src={IMG6} alt="" />
+          </div>
+          <h3>invitation card for a wedding website</h3>
+          <div className="portfolio__item-cta">
+            <a
+              href="https://github.com/cycscarlos/Invitacion_Boda"
+              className="btn"
+              target="_blank"
+              rel="noreferrer noopener"
+            >
+              Github
+            </a>
+            <a
+              href="https://cycscarlos.github.io/Invitacion_Boda"
+              className="btn btn-primary"
+              target="_blank"
+              rel="noreferrer noopener"
+            >
+              Live Demo
+            </a>
+          </div>
+        </article>
+
+        <article className="portfolio__item">
+          <div className="portfolio__item__image">
+            <img src={IMG6} alt="" />
+          </div>
+          <h3>Personal CV website</h3>
+          <div className="portfolio__item-cta">
+            <a
+              href="https://github.com/cycscarlos/Carlos_Colmenares_A"
+              className="btn"
+              target="_blank"
+              rel="noreferrer noopener"
+            >
+              Github
+            </a>
+            <a
+              href="https://cycscarlos.github.io/Carlos_Colmenares_A"
               className="btn btn-primary"
               target="_blank"
               rel="noreferrer noopener"

@@ -15,23 +15,34 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck class="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>
+                Design and creation of the user interface with homogeneous
+                visual for all the screens of the interface.
+              </p>
             </li>
             <li>
               <BiCheck class="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>
+                Design and creation of interactive elements and their placement
+                in the interface for proper usability.
+              </p>
             </li>
             <li>
               <BiCheck class="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>
+                Design ensuring through the implementation of best practices of
+                responsive interfaces, in order to create accessibility from any
+                device, whether Smartphone, Tablet or Smart TV or desktop or
+                laptop.
+              </p>
             </li>
             <li>
               <BiCheck class="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
-            <li>
-              <BiCheck class="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>
+                Our works in a team's product; all groups working in conjunction
+                with product design teams and other back-end development teams,
+                to generate the best spossible solution. .
+              </p>
             </li>
           </ul>
         </article>
@@ -43,27 +54,40 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck class="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>
+                Development and programming of websites and online applications
+                for companies and/or private clients
+              </p>
             </li>
             <li>
               <BiCheck class="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>
+                Our solid knowledge of many different technical tools and
+                development concepts, to allow us to generate solutions with high quality
+                standards
+              </p>
             </li>
             <li>
               <BiCheck class="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>
+                We have a solid Web development capabilities in all of the four web areas, namely:
+              </p>
             </li>
             <li>
               <BiCheck class="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Front-end development</p>
             </li>
             <li>
               <BiCheck class="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Back-end development</p>
             </li>
             <li>
               <BiCheck class="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Database configuration</p>
+            </li>
+            <li>
+              <BiCheck class="service__list-icon" />
+              <p>Maintenance of the site on the server</p>
             </li>
           </ul>
         </article>
@@ -75,23 +99,36 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck class="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Creation and planning of content strategies</p>
             </li>
             <li>
               <BiCheck class="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>
+                Writing of original and unique content, whose product is input
+                for publishing editorials and advertising campaigns for the
+                target audience
+              </p>
             </li>
             <li>
               <BiCheck class="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>
+                Optimization of editable content, according to the needs of the
+                company, the target audience, based on market trends
+              </p>
             </li>
             <li>
               <BiCheck class="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>
+                Measurement and analysis of marketing strategies and constant
+                revision if necessary{" "}
+              </p>
             </li>
             <li>
               <BiCheck class="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>
+                Creation of omni-channel marketing strategies, oriented to
+                multiple advertising platforms
+              </p>
             </li>
           </ul>
         </article>
