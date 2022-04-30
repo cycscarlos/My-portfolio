@@ -41,10 +41,11 @@ const About = () => {
 
           <p>
             <small>
-              Electronics engineer, 1981. More than 25 years as a software
-              engineer in IBM's Mainframe technologies; In parallel to the
-              function described above, I have also developed a successful
-              career as a project engineer
+              I'm a Software Developer and a lover of technology. Electronics
+              engineer, 1981. I worked for more than 25 years as a software
+              engineer in IBM's Mainframe technologies; In parallel to this work
+              experience, I have also developed a successful career as a project
+              engineer
               <small>
                 <i> (for more than 20 years) </i>
               </small>
@@ -52,18 +53,18 @@ const About = () => {
               <small>
                 <i> (my academic major) </i>
               </small>
-               and electronic security systems. Currently
+              and electronic security systems. Currently
               <small>
                 <i> (and for the last two years) </i>
               </small>
               I have been working as a full-stack web developer. Since early
               2020
               <small>
-                <i> (and due to covid-19 pandemic) </i>
+                <i> (and due to the covid-19 pandemic) </i>
               </small>
               I have been in deep training in many of these technologies that
               make up the web development ecosystem, becoming a solid web
-              developer. My entire CV can be seen at
+              developer. My entire CV can be seen in
               <a href="https://carlos-colmenares-a.netlify.app">
                 <small> Online CV</small>
               </a>
