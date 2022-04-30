@@ -46,26 +46,26 @@ const About = () => {
               function described above, I have also developed a successful
               career as a project engineer
               <small>
-                <i> (for more than 20 years)</i>
+                <i> (for more than 20 years) </i>
               </small>
-              , in the implementation of microwave telecommunications networks
+              in the implementation of microwave telecommunications networks
               <small>
                 <i> (my academic major) </i>
               </small>
                and electronic security systems. Currently
               <small>
-                <i> (and for the last 2 years)</i>
+                <i> (and for the last two years) </i>
               </small>
-              , I have been working as a fullstack web developer. Since early
+              I have been working as a full-stack web developer. Since early
               2020
               <small>
-                <i> (and due to covid-19 pandemic)</i>
+                <i> (and due to covid-19 pandemic) </i>
               </small>
-              , I have been in deep training in many of the technologies that
+              I have been in deep training in many of these technologies that
               make up the web development ecosystem, becoming a solid web
               developer. My entire CV can be seen at
               <a href="https://carlos-colmenares-a.netlify.app">
-                <small> https://carlos-colmenares-a.netlify.app</small>
+                <small> Online CV</small>
               </a>
               .
             </small>
