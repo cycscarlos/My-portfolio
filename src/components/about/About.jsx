@@ -40,7 +40,7 @@ const About = () => {
           </div>
 
           <p>
-            <small>
+            {/* <small>
               I'm a Software Developer and a lover of technology. Electronics
               engineer, 1981. I worked for more than 25 years as a software
               engineer in IBM's Mainframe technologies; In parallel to this work
@@ -69,6 +69,28 @@ const About = () => {
                 <small> Online CV</small>
               </a>
               .
+            </small> */}
+            <small>
+              I'm a Software Developer and a lover of technology. Electronic
+              Engineer, 1981. I worked for more than 25 years as a software
+              engineer in IBM Mainframe technologies. In parallel to this
+              activity, I also developed a successful career as a project
+              engineer
+              <small> (for more than 20 years) </small>in the areas of microwave
+              telecommunication networks
+              <small> (my academic specialization) </small>and electronic
+              security systems. Currently and since early 2020
+              <small>
+                <i> (...due to the confinement by the Covid-19 pandemic), </i>
+              </small>
+              I began to train myself in many of the technologies that make up
+              the web development ecosystem, becoming a solid web developer;
+              profession that I currently exercise. My progress in this area can
+              be seen in the following link
+              <a href="https://carlos-colmenares-a.netlify.app">
+                <small> Online CV</small>
+              </a>
+              
             </small>
           </p>
 
