@@ -11,14 +11,22 @@
 }
 
 :root {
+  /** Colores originales */
   /* --color-bg: #1f1f38; */
   /* --color-bg-variant: #2c2c6c; */
-  --color-bg: #1c3643;
-  --color-bg-variant: #273b47;
-  --color-primary: #4db5ff;
+  /** Colores actuales (9-Mayo-2022) */
+  /* --color-bg: #1c3643;
+  --color-bg-variant: #273b47; */
+  /** Colores actuales (17-Mayo-2022) */
+  --color-bg: #103552;
+  --color-bg-variant: #0b273c;
+  /* --color-primary: #4db5ff; Azul celeste -Original */
+  --color-primary: #fff;
   --color-primary-variant: rgba(77, 181, 255, 0.4);
   --color-white: #fff;
-  --color-light: rgba(255, 255, 255, 0.6);
+  /** Colores hasta el 9-Mayo-2022 */
+  /* --color-light: rgba(255, 255, 255, 0.6); */
+  --color-light: rgba(77, 181, 255, .6)
   --color-title: #9d8d6c;
 
   --container-width-lg: 75%;
@@ -38,10 +46,14 @@ html {
 
 body {
   font-family: "Poppins", sans-serif;
-  color: var(--color-white);
+  /** Color hasta el 9-Mayo-2022 */
+  /* color: var(--color-white); */
+  color: var(--color-primary);
   background: var(--color-bg);
   line-height: 1.7;
-  background-image: url(./../img/bg-texture.png);
+  /** Colores originales */
+  /* background-image: url(./../img/bg-texture.png); */
+  /* background-image: url(./../img/bg-texture.jpg); */
 }
 
 /* General styles */
@@ -109,8 +121,10 @@ a:hover {
 }
 
 .btn-primary {
-  background: var(--color-primary);
-  color: var(--color-bg);
+  /* background: var(--color-primary);
+  color: var(--color-bg); */
+  background: var(--color-primary-variant);
+  color: var(--color-white);
 }
 
 img {

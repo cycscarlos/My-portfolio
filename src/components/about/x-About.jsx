@@ -49,13 +49,14 @@ const About = () => {
               <small> (for more than 20 years) </small>in the areas of microwave
               telecommunication networks
               <small> (my academic specialization) </small>and electronic
-              security systems. Currently
+              security systems. Currently and since early 2020
               <small>
-                {" "}
-                (and due to the confinement by the Covid-19 pandemic){" "}
+                <i> (...due to the confinement by the Covid-19 pandemic), </i>
               </small>
-              , I became a solid web developer; profession that I currently
-              exercise. My complete CV can be seen in the following link
+              I began to train myself in many of the technologies that make up
+              the web development ecosystem, becoming a solid web developer;
+              profession that I currently exercise. My progress in this area can
+              be seen in the following link
               <a href="https://carlos-colmenares-a.netlify.app"> Online CV </a>
             </small>
           </p>
