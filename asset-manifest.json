@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.9872bb42.css",
-    "main.js": "/my-portfolio/static/js/main.b3a58262.js",
+    "main.css": "/my-portfolio/static/css/main.450dbbbf.css",
+    "main.js": "/my-portfolio/static/js/main.065b37bd.js",
     "static/media/me-about.png": "/my-portfolio/static/media/me-about.dd6304a6918938686dab.png",
     "static/media/me-logo.jpg": "/my-portfolio/static/media/me-logo.342445a07de8a6a37c45.jpg",
     "static/media/Carlos_Colmenares_A.pdf": "/my-portfolio/static/media/Carlos_Colmenares_A.515b2eff732c82cd685f.pdf",
@@ -15,11 +15,11 @@
     "static/media/portfolio9.png": "/my-portfolio/static/media/portfolio9.7a6adcb578d03d81ac28.png",
     "static/media/portfolio2.png": "/my-portfolio/static/media/portfolio2.612f82f979143c257676.png",
     "index.html": "/my-portfolio/index.html",
-    "main.9872bb42.css.map": "/my-portfolio/static/css/main.9872bb42.css.map",
-    "main.b3a58262.js.map": "/my-portfolio/static/js/main.b3a58262.js.map"
+    "main.450dbbbf.css.map": "/my-portfolio/static/css/main.450dbbbf.css.map",
+    "main.065b37bd.js.map": "/my-portfolio/static/js/main.065b37bd.js.map"
   },
   "entrypoints": [
-    "static/css/main.9872bb42.css",
-    "static/js/main.b3a58262.js"
+    "static/css/main.450dbbbf.css",
+    "static/js/main.065b37bd.js"
   ]
 }
