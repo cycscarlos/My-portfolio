@@ -1,6 +1,6 @@
 import React from "react";
 import "./about.css";
-import ME from "../../assets/img/me-about.png";
+import ME from "../../assets/img/me-about.jpg";
 import { FaAward } from "react-icons/fa";
 import { HiOutlineUsers } from "react-icons/hi";
 import { VscFolderLibrary } from "react-icons/vsc";
@@ -41,21 +41,26 @@ const About = () => {
 
           <p class="about__parrafo">
             <small>
-              I'm a Software Developer and a lover of technology. Electronic
-              Engineer, 1981. I worked for more than 25 years as a software
-              engineer in IBM Mainframe technologies. In parallel to this
-              activity, I also developed a successful career as a project
-              engineer
-              <small> (for more than 20 years) </small>in the areas of microwave
-              telecommunication networks
-              <small> (my academic specialization) </small>and electronic
-              security systems. Currently
+              Co-founder of two consulting, and projects integration
+              technologies start-ups; CYCS Computing Specialists{" "}
               <small>
-                {" "}
-                (and due to the confinement by the Covid-19 pandemic){" "}
+                <i>(IBM Mainframe Technologies Software Engineering) </i>
               </small>
-              , I became a solid web developer; profession that I currently
-              exercise. My complete CV can be seen in the following link
+              , and CYCS & Co. Ingeniería e Instalaciones{" "}
+              <small>
+                <i>
+                  (Electronics Security systems, and Telecommunications Networks
+                  Engineering)
+                </i>
+              </small>
+              . Electronic Engineer, 1981. I worked for more than 25 years as a
+              software engineer in IBM Mainframe technologies. In parallel, I
+              also developed a successful career as a project engineer{" "}
+              <small>(for more than 20 years) </small>in the areas of microwave
+              telecommunication networks and electronic security systems.
+              Currently and since early 2020 as a Web Software Developer; I
+              develop Web sites & Apps systems for smartphones, and servers
+              platforms. My complete CV can be seen in the following link
               <a href="https://carlos-colmenares-a.netlify.app"> Online CV </a>
             </small>
           </p>
