@@ -10,6 +10,32 @@ const Services = () => {
       <div className="container services__container">
         <article className="service">
           <div className="service__head">
+            <h3>Content and UI/UX Design</h3>
+          </div>
+          <ul className="service__list">
+            <li>
+              <BiCheck class="service__list-icon" />
+              <p>
+                Writing unique content, that will be input for publishing
+                editorials and advertising campaigns for the target audience
+              </p>
+            </li>
+            <li>
+              <BiCheck class="service__list-icon" />
+              <p>Creation and planning of content strategies</p>
+            </li>
+            <li>
+              <BiCheck class="service__list-icon" />
+              <p>
+                Design and creation of interactive elements and their placement
+                in the interface for proper usability.
+              </p>
+            </li>
+          </ul>
+        </article>
+
+        <article className="service">
+          <div className="service__head">
             <h3>Web Development</h3>
           </div>
           <ul className="service__list">
@@ -31,32 +57,6 @@ const Services = () => {
               <p>
                 Developement of statistical and geographic information
                 applications to manage very sensitive user data
-              </p>
-            </li>
-          </ul>
-        </article>
-
-        <article className="service">
-          <div className="service__head">
-            <h3>Content and UI/UX Design</h3>
-          </div>
-          <ul className="service__list">
-            <li>
-              <BiCheck class="service__list-icon" />
-              <p>
-                Writing unique content, that will be input for publishing
-                editorials and advertising campaigns for the target audience
-              </p>
-            </li>
-            <li>
-              <BiCheck class="service__list-icon" />
-              <p>Creation and planning of content strategies</p>
-            </li>
-            <li>
-              <BiCheck class="service__list-icon" />
-              <p>
-                Design and creation of interactive elements and their placement
-                in the interface for proper usability.
               </p>
             </li>
           </ul>
