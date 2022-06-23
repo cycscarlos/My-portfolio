@@ -23,7 +23,7 @@ const About = () => {
             <article className="about__card">
               <FaAward className="about__icon" />
               <h5>Experiencie</h5>
-              <small>2+ Years Working</small>
+              <small>3+ Years Working</small>
             </article>
 
             <article className="about__card">
@@ -41,21 +41,18 @@ const About = () => {
 
           <p class="about__parrafo">
             <small>
-              Co-founder of two consulting, and projects integration
-              technologies start-ups; CYCS Computing Specialists{" "}
+              Electronics engineer by education; software engineer by
+              profession. Co-founder of two technologies start-ups; "CYCS
+              Computing Specialists"
+              <small>(IBM Mainframe Technologies Software Engineering)</small>,
+              and "CYCS & Co. Ingeniería e Instalaciones"
               <small>
-                <i>(IBM Mainframe Technologies Software Engineering) </i>
+                (Electronics Security systems, and Telecommunications Networks
+                Engineering)
               </small>
-              , and CYCS & Co. Ingeniería e Instalaciones{" "}
-              <small>
-                <i>
-                  (Electronics Security systems, and Telecommunications Networks
-                  Engineering)
-                </i>
-              </small>
-              . Electronic Engineer, 1981. I worked for more than 25 years as a
-              software engineer in IBM Mainframe technologies. In parallel, I
-              also developed a successful career as a project engineer{" "}
+              . I worked for more than 25 years as a software engineer in IBM
+              Mainframe technologies. In parallel, I also developed a successful
+              career as a project engineer{" "}
               <small>(for more than 20 years) </small>in the areas of microwave
               telecommunication networks and electronic security systems.
               Currently and since early 2020 as a Web Software Developer; I
