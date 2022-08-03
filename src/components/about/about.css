@@ -1,26 +1,18 @@
 .about__container {
   display: grid;
   grid-template-columns: 35% 50%;
-  /* gap: 15%; */
   gap: 10%;
 }
 
 .about__me {
-  /* width: 100%; */
   width: 80%;
   aspect-ratio: 1/1;
   border-radius: 2rem;
-  /* background-color: linear-gradient(
-    45deg,
-    transparent,
-    var(--color-primary),
-    transparent
-  ); */
-  /* background: var(--color-primary); */
   background: transparent;
   display: grid;
   place-items: center;
   height: 100%;
+  caret-color: rgba(0, 0, 0, 0);
 }
 
 .about__me-imgBx {
@@ -32,7 +24,6 @@
 .about__me-image {
   margin-top: -6rem;
   margin-left: 4rem;
-  /* border-radius: 2rem; */
   border-radius: 50%;
   box-shadow: 0 5px 25px 10px rgba(0, 0, 0, 0.5);
   overflow: hidden;
@@ -123,5 +114,10 @@
   }
   .about__content p {
     margin: 1.5rem 0;
+  }
+}
+@media screen and (max-width: 414px) {
+  .about__me-image {
+    margin-top: 0;
   }
 }
