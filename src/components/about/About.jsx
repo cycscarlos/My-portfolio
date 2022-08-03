@@ -40,7 +40,7 @@ const About = () => {
           </div>
 
           <p class="about__parrafo">
-            <small>
+            {/* <small>
               Electronics engineer by education; software engineer by
               profession. Co-founder of two technologies start-ups; "CYCS
               Computing Specialists"
@@ -59,6 +59,20 @@ const About = () => {
               develop Web sites & Apps systems for smartphones, and servers
               platforms. My complete CV can be seen in the following link
               <a href="https://carlos-colmenares-a.netlify.app"> Online CV </a>
+            </small> */}
+            <small>
+              I'm Carlos, a software engineer, and web developer with an
+              electronics engineering degree. We are always on time to reinvent
+              ourselves. My goal is to inspire you and help follow your dreams.
+              Long time ago, I was an IBM software engineer, project engineer,
+              and also, co-founded two tech start-ups; but since early 202-year,
+              as enthusiats and passionate by coding, I have been developing
+              websites, and apps systems for smartphones, and servers platforms.
+              My complete CV can be seen in the following link
+              <a href="https://carlos-colmenares-a.netlify.app">
+                {" "}
+                Online CV
+              </a>{" "}
             </small>
           </p>
 
