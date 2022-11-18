@@ -44,15 +44,13 @@ const About = () => {
               I'm Carlos (zCoder!), There is always time to reinvent ourselves.
               My goal is to inspire you and help you follow your dreams. A long
               time ago, I was IBM Mainframe system programmer
-              <small>
-                (for over 25 years, with more than 25 courses of specialization)
-              </small>
-              , and later, I developed a successfull career
-              <small>(for over 20 years)</small> as specialist in field
+              <small> (for over 25 years)</small>, and later, I developed a
+              successfull career
+              <small> (for over 20 years)</small> as specialist in field
               deployments of microwave networks, electronics security, and
               automation systems; in the process, I co-founded two technology
               startups. Most currently
-              <small>(since the beginning of 2020-year)</small>, and as an
+              <small> (since the beginning of 2020-year)</small>, and as an
               enthusiastic and passionate by programming code, I started to
               formally train and develop websites (HTML/CSS, JavaScript, React,
               Java), smartphone apps (React Native, Kotlin), and server-side
