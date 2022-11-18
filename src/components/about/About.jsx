@@ -40,35 +40,24 @@ const About = () => {
           </div>
 
           <p class="about__parrafo">
-            {/* <small>
-              Electronics engineer by education; software engineer by
-              profession. Co-founder of two technologies start-ups; "CYCS
-              Computing Specialists"
-              <small>(IBM Mainframe Technologies Software Engineering)</small>,
-              and "CYCS & Co. Ingeniería e Instalaciones"
-              <small>
-                (Electronics Security systems, and Telecommunications Networks
-                Engineering)
-              </small>
-              . I worked for more than 25 years as a software engineer in IBM
-              Mainframe technologies. In parallel, I also developed a successful
-              career as a project engineer{" "}
-              <small>(for more than 20 years) </small>in the areas of microwave
-              telecommunication networks and electronic security systems.
-              Currently and since early 2020 as a Web Software Developer; I
-              develop Web sites & Apps systems for smartphones, and servers
-              platforms. My complete CV can be seen in the following link
-              <a href="https://carlos-colmenares-a.netlify.app"> Online CV </a>
-            </small> */}
             <small>
-              I'm Carlos, an IBM system software specialist, telco
-              field-implementation manager, and web software developer with 25+
-              certified technologies courses. We are always on time to reinvent
-              ourselves. My goal is to inspire you and help follow your dreams.
-              Co-founder of two tech start-ups. Since early 2020-year, as
-              enthusiats and passionate by coding, I have been developing
-              websites, and apps systems for smartphones, and servers platforms.
-              My complete CV can be seen in the following link
+              I'm Carlos (zCoder!), There is always time to reinvent ourselves.
+              My goal is to inspire you and help you follow your dreams. A long
+              time ago, I was IBM Mainframe system programmer
+              <small>
+                (for over 25 years, with more than 25 courses of specialization)
+              </small>
+              , and later, I developed a successfull career
+              <small>(for over 20 years)</small> as specialist in field
+              deployments of microwave networks, electronics security, and
+              automation systems; in the process, I co-founded two technology
+              startups. Most currently
+              <small>(since the beginning of 2020-year)</small>, and as an
+              enthusiastic and passionate by programming code, I started to
+              formally train and develop websites (HTML/CSS, JavaScript, React,
+              Java), smartphone apps (React Native, Kotlin), and server-side
+              platforms (NodeJS, MySQL, MongoDB, Python). My complete CV can be
+              seen in the following link
               <a href="https://carlos-colmenares-a.netlify.app">
                 {" "}
                 Online CV
