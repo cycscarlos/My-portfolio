@@ -41,21 +41,22 @@ const About = () => {
 
           <p class="about__parrafo">
             <small>
-              I'm Carlos (zCoder!), There is always time to reinvent ourselves.
-              My goal is to inspire you and help you follow your dreams. A long
-              time ago, I was IBM Mainframe system programmer
+              I'm Carlos <small>(zCoder on Social Medias)</small>, There is
+              always time to reinvent ourselves; my goal is to inspire you and
+              help you follow your dreams. A long time ago, I worked as IBM
+              Mainframe system programmer
               <small> (for over 25 years)</small>, and later, I developed a
               successfull career
-              <small> (for over 20 years)</small> as specialist in field
-              deployments of microwave networks, electronics security, and
-              automation systems; in the process, I co-founded two technology
-              startups. Most currently
+              <small> (for another 20 years, and currently active)</small> as
+              specialist in field deployments of microwave networks, and
+              electronics security systems; in the process, I co-founded two
+              technology startups. Most currently
               <small> (since the beginning of 2020-year)</small>, and as an
               enthusiastic and passionate by programming code, I started to
-              formally train and develop websites (HTML/CSS, JavaScript, React,
-              Java), smartphone apps (React Native, Kotlin), and server-side
-              platforms (NodeJS, MySQL, MongoDB, Python). My complete CV can be
-              seen in the following link
+              formally train and develop websites (HTML/CSS, JavaScript, React),
+              smartphone apps (React Native, Kotlin), and server-side platforms
+              (NodeJS, MySQL, MongoDB, Python). My complete CV can be seen in
+              the following link
               <a href="https://carlos-colmenares-a.netlify.app">
                 {" "}
                 Online CV
