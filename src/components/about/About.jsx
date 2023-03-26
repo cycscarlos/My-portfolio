@@ -39,7 +39,7 @@ const About = () => {
             </article>
           </div>
 
-          <p class="about__parrafo">
+          {/* <p class="about__parrafo">
             <small>
               I'm Carlos <small>(zCoder on Social Medias)</small>, There is
               always time to reinvent ourselves; my goal is to inspire you and
@@ -57,6 +57,30 @@ const About = () => {
               smartphone apps (React Native, Kotlin), and server-side platforms
               (NodeJS, MySQL, MongoDB, Python). My complete CV can be seen in
               the following link
+              <a href="https://carlos-colmenares-a.netlify.app">
+                {" "}
+                Online CV
+              </a>{" "}
+            </small>
+          </p> */}
+          <p class="about__parrafo">
+            <small>
+              Hi, I'm Carlos Colmenares Álvarez{" "}
+              <small>(known as "zCoder" on social media).</small>
+              There is always time to reinvent yourself; my goal is to inspire
+              and help you follow your dreams. A long time ago, I worked as a
+              systems programmer for IBM Mainframe Technologies{" "}
+              <small>(for more than 20 years)</small>. Later, I developed a
+              successful career{" "}
+              <small>(for another 20 years, and I'm still working on it)</small>{" "}
+              as a specialist in microwave network field deployments and
+              electronic security systems; in the process, I co-founded two
+              technology startups. As an enthusiast, and passionate about
+              software programming, I started to formally train myself in the
+              whole ecosystem that makes up web development; I currently develop
+              applications for smartphones, desktops, servers, cloud servers,
+              landing pages, websites, etc.My complete CV can be seen in the
+              following link
               <a href="https://carlos-colmenares-a.netlify.app">
                 {" "}
                 Online CV
