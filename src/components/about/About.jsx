@@ -39,48 +39,24 @@ const About = () => {
             </article>
           </div>
 
-          {/* <p class="about__parrafo">
-            <small>
-              I'm Carlos <small>(zCoder on Social Medias)</small>, There is
-              always time to reinvent ourselves; my goal is to inspire you and
-              help you follow your dreams. A long time ago, I worked as IBM
-              Mainframe system programmer
-              <small> (for over 25 years)</small>, and later, I developed a
-              successfull career
-              <small> (for another 20 years, and currently active)</small> as
-              specialist in field deployments of microwave networks, and
-              electronics security systems; in the process, I co-founded two
-              technology startups. Most currently
-              <small> (since the beginning of 2020-year)</small>, and as an
-              enthusiastic and passionate by programming code, I started to
-              formally train and develop websites (HTML/CSS, JavaScript, React),
-              smartphone apps (React Native, Kotlin), and server-side platforms
-              (NodeJS, MySQL, MongoDB, Python). My complete CV can be seen in
-              the following link
-              <a href="https://carlos-colmenares-a.netlify.app">
-                {" "}
-                Online CV
-              </a>{" "}
-            </small>
-          </p> */}
           <p class="about__parrafo">
             <small>
               Hi, I'm Carlos Colmenares Álvarez{" "}
-              <small>(known as "zCoder" on social media).</small>
-              There is always time to reinvent yourself; my goal is to inspire
-              and help you follow your dreams. A long time ago, I worked as a
-              systems programmer for IBM Mainframe Technologies{" "}
-              <small>(for more than 20 years)</small>. Later, I developed a
+              <small>(nicknamed "zCoder" on social media).</small> A long time
+              ago, I worked <small>(for more than 20 years)</small> as a systems
+              programmer for IBM Mainframe Technologies. Later, I developed a
               successful career{" "}
-              <small>(for another 20 years, and I'm still working on it)</small>{" "}
-              as a specialist in microwave network field deployments and
-              electronic security systems; in the process, I co-founded two
-              technology startups. As an enthusiast, and passionate about
-              software programming, I started to formally train myself in the
-              whole ecosystem that makes up web development; I currently develop
-              applications for smartphones, desktops, servers, cloud servers,
-              landing pages, websites, etc.My complete CV can be seen in the
-              following link
+              <small>(for another 20 years, and am still working on it)</small>{" "}
+              as a specialist in Telecommunications{" "}
+              <small>(with a focus on Microwave networks)</small> and, an
+              electronic security systems. In the process, I co-founded two
+              small but very specialized technology startups. In parallel and on
+              a day-to-day basis, I complement my fieldwork with my other
+              passion, software programming, in which I continuously train
+              myself in most of the technologies that make up its ecosystem,
+              developing software or apps for smartphones, desktops, websites,
+              and cloud servers. My complete CV can be seen in the following
+              link
               <a href="https://carlos-colmenares-a.netlify.app">
                 {" "}
                 Online CV
