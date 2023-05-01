@@ -41,17 +41,14 @@ const About = () => {
 
           <p class="about__parrafo">
             <small>
-              Hi, I'm Carlos Colmenares Álvarez{" "}
-              <small>(nicknamed "zCoder" on social media).</small> A long time
-              ago, I worked <small>(for more than 20 years)</small> as a systems
-              programmer for IBM Mainframe Technologies. Later, I developed a
-              successful career{" "}
-              <small>(for another 20 years, and am still working on it)</small>{" "}
-              as a specialist in Telecommunications{" "}
-              <small>(with a focus on Microwave networks)</small> and, an
-              electronic security systems. In the process, I co-founded two
-              small but very specialized technology startups. In parallel and on
-              a day-to-day basis, I complement my fieldwork with my other
+              Hi, I'm Carlos Colmenares Álvarez. Academically, I am an
+              electronic engineer; professionally, I am a software engineer. I
+              worked <small>(for more than 20 years)</small> as a system
+              programmer for IBM Mainframe technologies. For the past twenty
+              years, I have also had a successful career as a project engineer,
+              especially in the design and installation of electronic systems
+              for public safety and microwave telecommunications. In parallel
+              and on a day-to-day basis, I complement my fieldwork with my other
               passion, software programming, in which I continuously train
               myself in most of the technologies that make up its ecosystem,
               developing software or apps for smartphones, desktops, websites,
