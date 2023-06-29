@@ -36,14 +36,24 @@ const Experience = () => {
               <BsFillPatchCheckFill className="experience__details-icon" />
               <div>
                 <h4>REACT</h4>
-                <small className="text-light">Experienced</small>
+                <small className="text-light">Intermediate</small>
+              </div>
+            </article>
+            <article className="experience__details">
+              <BsFillPatchCheckFill className="experience__details-icon" />
+              <div>
+                <h4>VUE</h4>
+                <small className="text-light">
+                  {" "}
+                  <small className="text-light">Intermediate</small>
+                </small>
               </div>
             </article>
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
               <div>
                 <h4>FIGMA</h4>
-                <small className="text-light">Intermediate</small>
+                <small className="text-light">Experienced</small>
               </div>
             </article>
             <article className="experience__details">
@@ -58,16 +68,6 @@ const Experience = () => {
               <div>
                 <h4>Progressive Web Apps</h4>
                 <small className="text-light">Experienced</small>
-              </div>
-            </article>
-            <article className="experience__details">
-              <BsFillPatchCheckFill className="experience__details-icon" />
-              <div>
-                <h4>Java</h4>
-                <small className="text-light">
-                  {" "}
-                  <small className="text-light">Intermediate</small>
-                </small>
               </div>
             </article>
           </div>
@@ -122,7 +122,7 @@ const Experience = () => {
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
               <div>
-                <h4>Electron JS</h4>
+                <h4>GraphQL APIs</h4>
                 <small className="text-light">Intermediate</small>
               </div>
             </article>
