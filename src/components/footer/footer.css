@@ -7,8 +7,8 @@ footer {
 }
 
 footer a {
-  /* color: var(--color-bg); */
-  color: var(--color-primary);
+  color: var(--color-bg);
+  /* color: var(--color-primary); */
 }
 
 .footer__logo {
@@ -16,6 +16,7 @@ footer a {
   font-weight: 500;
   margin-bottom: 2rem;
   display: inline-block;
+  color: var(--color-title);
 }
 
 .permalinks {
@@ -24,6 +25,12 @@ footer a {
   justify-content: center;
   gap: 2rem;
   margin: 0 auto 3rem;
+  color: var(--color-title);
+}
+
+.footer__logo:hover,
+.permalinks:hover {
+  color: var(--color-white);
 }
 
 .footer__socials {
@@ -50,7 +57,8 @@ footer a {
 
 .footer__copyright {
   margin-bottom: 4rem;
-  color: var(--color-primary);
+  /* color: var(--color-primary); */
+  color: var(--color-title);
 }
 
 @media screen and (max-width: 600px) {
