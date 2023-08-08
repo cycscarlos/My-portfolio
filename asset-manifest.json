@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.f1cb357c.css",
+    "main.css": "/my-portfolio/static/css/main.3606512f.css",
     "main.js": "/my-portfolio/static/js/main.83cc2094.js",
     "static/media/me-logo.jpg": "/my-portfolio/static/media/me-logo.342445a07de8a6a37c45.jpg",
     "static/media/Carlos_Colmenares_A.pdf": "/my-portfolio/static/media/Carlos_Colmenares_A.515b2eff732c82cd685f.pdf",
@@ -14,11 +14,11 @@
     "static/media/portfolio9.png": "/my-portfolio/static/media/portfolio9.7a6adcb578d03d81ac28.png",
     "static/media/portfolio2.png": "/my-portfolio/static/media/portfolio2.612f82f979143c257676.png",
     "index.html": "/my-portfolio/index.html",
-    "main.f1cb357c.css.map": "/my-portfolio/static/css/main.f1cb357c.css.map",
+    "main.3606512f.css.map": "/my-portfolio/static/css/main.3606512f.css.map",
     "main.83cc2094.js.map": "/my-portfolio/static/js/main.83cc2094.js.map"
   },
   "entrypoints": [
-    "static/css/main.f1cb357c.css",
+    "static/css/main.3606512f.css",
     "static/js/main.83cc2094.js"
   ]
 }
