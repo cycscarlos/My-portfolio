@@ -41,19 +41,17 @@ const About = () => {
 
           <p class="about__parrafo">
             <small>
-              Hi, I'm Carlos Colmenares Álvarez. Academically, I am an
-              electronic engineer; professionally, I am a software engineer. I
-              worked <small>(for more than 20 years)</small> as a system
-              programmer for IBM Mainframe technologies. For the past twenty
-              years, I have also had a successful career as a project engineer,
-              especially in the design and installation of electronic systems
-              for public safety and microwave telecommunications. In parallel
-              and on a day-to-day basis, I complement my fieldwork with my other
-              passion, software programming, in which I continuously train
-              myself in most of the technologies that make up its ecosystem,
-              developing software or apps for smartphones, desktops, websites,
-              and cloud servers. My complete CV can be seen in the following
-              link
+              Hi, I'm Carlos Colmenares Álvarez. ¡Software Developer! I worked{" "}
+              <small>(for more than 20 years)</small> as a system programmer for
+              IBM Mainframe technologies. For the past twenty years; also had a
+              successful career as a project engineer, especially in the design
+              and installation of electronic systems for public safety and
+              microwave telecommunications. In parallel and on a day-to-day
+              basis, complementing my fieldwork with my other passion, software
+              programming, in which continuously train myself in most of the
+              technologies that make up its ecosystem, developing software or
+              apps for smartphones, desktops, websites, and cloud servers. My
+              complete CV can be seen in the following link
               <a href="https://carlos-colmenares-a.netlify.app">
                 {" "}
                 Online CV
